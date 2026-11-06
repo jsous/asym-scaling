@@ -7,3 +7,4 @@ Each figure in the paper is produced by one notebook. The figures in `figures/` 
 | Figure | Notebook | Data |
 |---|---|---|
 | 1 | `pictureMaker_PhaseDiagram_WinerSous.ipynb` | none |
+| 2, 3 | `SparseScaling1.ipynb` | `data/results.zip` (archived sweep, 238 + 3,335 rounds) |
