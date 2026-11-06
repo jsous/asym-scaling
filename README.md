@@ -9,3 +9,4 @@ Each figure in the paper is produced by one notebook. The figures in `figures/` 
 | 1 | `pictureMaker_PhaseDiagram_WinerSous.ipynb` | none |
 | 2, 3 | `SparseScaling1.ipynb` | `data/results.zip` (archived sweep, 238 + 3,335 rounds) |
 | 4 | `SparseScaling2.ipynb` | `data/results_relu_nesterov_20260428_155617.pkl` |
+| A1, A2 | `SparseScaling_Appendix.ipynb` | `data/results_pinv_linear_and_relu_20260428_181712.pkl` |
